@@ -1,1 +1,1 @@
-# image-slider-js-code-for-clickfunnel
+# Image Slider Js Code For Clickfunnel
